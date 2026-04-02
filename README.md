@@ -8,4 +8,6 @@ test 2
 test 3
 <br>
 test 4
-test 5 in readme
+test 5 in readme 
+<br>
+test 6 via Git desktop application.
