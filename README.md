@@ -13,3 +13,4 @@ test 5 in readme
 test 6 via Git desktop application.
 <br> 
 retest of 6 via git desktop application.
+test 7
